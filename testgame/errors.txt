@@ -2,7 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 18: indentation mismatch.
+File "game/script.rpy", line 12: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    "   2. 매일 10분 ~ 15분씩 복습하는것도 잊지말고"
+    ^
 
 Ren'Py Version: Ren'Py 7.0.0.196
-Sat Aug 18 23:10:26 2018
+Sun Aug 19 11:01:52 2018
